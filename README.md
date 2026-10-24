@@ -1,7 +1,8 @@
 # Space Tourism
 
-live version
-https://ramtinbabaei.github.io/space-tourism/
+## Live Demo
+
+[Open Space Tourism](https://ramtinbabaei.github.io/space-tourism/)
 
 
 ## Stack
